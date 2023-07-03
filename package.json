@@ -1,0 +1,22 @@
+{
+  "author": "Shivang P Swain <me@shiva.ng> (https://shiva.ng/)",
+  "bugs": {
+    "url": "https://github.com/shivangswain/fontawesomecss/issues",
+    "email": "preflight@shiva.ng"
+  },
+  "description": "Preflight is a set of base styles that are designed to smooth over cross-browser inconsistencies and make it easier for you to work within the constraints of your design system.",
+  "funding": "https://shiva.ng/paypal",
+  "homepage": "https://shiva.ng/fontawesomecss",
+  "keywords": [
+    "font",
+    "awesome",
+    "fontawesome",
+    "icon",
+    "css"
+  ],
+  "license": "CC-BY-4.0 AND OFL-1.1 AND MIT",
+  "main": "fontawesome.css",
+  "name": "@shivangswain/fontawesomecss",
+  "repository": "https://github.com/shivangswain/fontawesomecss.git",
+  "version": "0.0.1"
+}
